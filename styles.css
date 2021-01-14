@@ -180,11 +180,11 @@ body {
   .item-bottom {
     background-color: #DAB8F5;
     overflow-wrap: break-word;
-    height: 28rem;
+    height: 30rem;
     font-size: medium;
     width: 28rem;
     text-align: center;
-    line-height: 28rem;
+    line-height: 30rem;
     padding: 1rem;
   }
 
